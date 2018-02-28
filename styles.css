@@ -175,4 +175,13 @@ img#city-img{
 /*user-list formatting*/
 #user-list li {
    line-height: 1.35;
+   
+}
+
+
+/*Modi*/
+
+.reverse-squares{
+  display: flex;
+  flex-direction: row-reverse;
 }
